@@ -1,0 +1,22 @@
+{
+    "name": "npm_superagent",
+    "version": "1.0.0",
+    "description": "for some test with npm tools",
+    "main": "index.js",
+    "scripts": {
+        "test": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kinboyw/npm_SuperAgent.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/kinboyw/npm_SuperAgent/issues"
+    },
+    "homepage": "https://github.com/kinboyw/npm_SuperAgent#readme",
+    "dependencies": {
+        "superagent": "^3.8.3"
+    }
+}
